@@ -160,7 +160,7 @@ class Mahnob:
     assert len(video_path_list) == 527
     assert len(BDF_PATH_LIST) == 527
 
-    # 加载视频
+    # load video
     @staticmethod
     def load_video_file(filepath: str, use_part=False) -> list:
         video = load_video_bgr(filepath)
@@ -168,7 +168,7 @@ class Mahnob:
             video = mahnob_select_video(video)
         return video
 
-    # 读取视频元信息
+    # Read video meta information
     @staticmethod
     def metadata_video(filepath: str) -> dict:
         metadata = metadata_video(filepath)
