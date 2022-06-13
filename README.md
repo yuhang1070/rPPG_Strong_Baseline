@@ -23,3 +23,9 @@
 | pure.py   | PURE database processing library. |
 | ubfc2.py  | UBFC-rPPG database processing library. |
 | vipl.py   | VIPL-HR database processing library. |
+
+## losses
+|  Filename   | Application  |
+|  ----  | ----  |
+| negative_pearson_loss.py | Negative pearson loss function. |
+| cross_snr_loss.py | Signal-to-noise loss function. |
