@@ -13,4 +13,5 @@ An open source toolbox and Strong Baseline for rPPG-based remote physiological m
 | metric_tools.py | Calculate IBI error |
 | ppg_tools.py | Calculate heart rate from PPG/rPPG signal. |
 | video_tools.py | For processing video. |
-
+| skin_tools.py | Skin segmentation. |
+| sig_tools.py  | Signal filtering, detrending. |
