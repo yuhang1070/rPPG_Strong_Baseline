@@ -1,2 +1,2 @@
 # rPPG_Strong_Baseline
-An open source Strong Baseline for rPPG and remote physiological measurement.
+An open source toolbox and Strong Baseline for rPPG and remote physiological measurement.
