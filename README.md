@@ -29,3 +29,5 @@
 |  ----  | ----  |
 | negative_pearson_loss.py | Negative pearson loss function. |
 | cross_snr_loss.py | Signal-to-noise loss function. |
+
+***To be continued!***
