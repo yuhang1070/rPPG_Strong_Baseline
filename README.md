@@ -5,6 +5,7 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  Filename   | Application  |
 |  ----  | ----  |
+| preprocess/gen_STmap.py | STMap Generation |
 | preprocess/preprocess_landmark.py | Face landmarking |
 | preprocess/preprocess_detect.py   | Face detection |
 | tools/eval_tools.py  | For heart rate prediction, standard deviation of the error (Std), mean absolute error (MAE), root mean square error (RMSE), mean error rate (MER) and Pearson’s correlation coefficient (r) are employed for performance evaluation. |
