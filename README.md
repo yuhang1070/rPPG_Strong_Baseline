@@ -5,7 +5,7 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  Filename   | Application  |
 |  ----  | ----  |
-| preprocess_data.py  | Train/Test Data Generation. |
+| preprocess/preprocess_data.py  | Train/Test Data Generation. |
 | preprocess/preprocess_crop.py | Face cropping, and generate STMap from face videos. |
 | preprocess/gen_STmap.py | STMap Generation |
 | preprocess/preprocess_landmark.py | Face landmarking |
