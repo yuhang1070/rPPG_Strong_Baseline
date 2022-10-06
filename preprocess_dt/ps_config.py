@@ -1,0 +1,2 @@
+STEP_SIZE = 10
+WIN_LEN = 256
