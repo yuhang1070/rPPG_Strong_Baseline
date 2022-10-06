@@ -5,6 +5,7 @@
 |  Filename   | Application  |
 |  ----  | ----  |
 | preprocess_landmark.py | Face landmarking |
+| preprocess_detect.py   | Face detection |
 
 ## tools
 |  Filename   | Application  |
