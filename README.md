@@ -5,6 +5,7 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  Filename   | Application  |
 |  ----  | ----  |
+| preprocess/preprocess_crop.py | Face cropping, and generate STMap from face videos. |
 | preprocess/gen_STmap.py | STMap Generation |
 | preprocess/preprocess_landmark.py | Face landmarking |
 | preprocess/preprocess_detect.py   | Face detection |
