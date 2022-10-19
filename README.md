@@ -6,6 +6,7 @@ For more information, https://arxiv.org/abs/2206.05687
 |  Filename   | Application  |
 |  ----  | ----  |
 | train/load_data.py | Load data from path profile |
+| train/load_path.py | Load train/valid path profile |
 | gen_path/gen_vipl.py | Generate path profile for VIPL database |
 | gen_path/gen_ubfc.py | Generate path profile for UBFC-rPPG database |
 | gen_path/gen_mahnob.py | Generate path profile for MAHNOB-HCI database |
