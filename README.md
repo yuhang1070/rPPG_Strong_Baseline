@@ -5,6 +5,7 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  Filename   | Application  |
 |  ----  | ----  |
+| train/make_dataloader.py | Make train/valid dataloader, and data enhancement |
 | train/load_data.py | Load data from path profile |
 | train/load_path.py | Load train/valid path profile |
 | gen_path/gen_vipl.py | Generate path profile for VIPL database |
