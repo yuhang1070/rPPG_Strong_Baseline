@@ -1,4 +1,4 @@
-# rPPG_Strong_Baseline
+# rPPG Strong Baseline
 ***An open source toolbox and Strong Baseline for rPPG-based remote physiological measurement.***
 
 Official code for https://arxiv.org/abs/2206.05687
