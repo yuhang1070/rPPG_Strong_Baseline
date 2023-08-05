@@ -1,6 +1,7 @@
 # rPPG_Strong_Baseline
 ***An open source toolbox and Strong Baseline for rPPG-based remote physiological measurement.***
 
+Official code for https://arxiv.org/abs/2206.05687
 For more information, https://arxiv.org/abs/2206.05687
 
 |  Filename   | Application  |
@@ -34,5 +35,6 @@ For more information, https://arxiv.org/abs/2206.05687
 | losses/negative_pearson_loss.py | Negative pearson loss function. |
 | losses/cross_snr_loss.py | Signal-to-noise loss function. |
 | config/parameters.py | Configuration. |
+| STMap/*.png          | Example for STMap |
 
 ***To be continued!***
