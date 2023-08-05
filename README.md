@@ -35,7 +35,7 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  models   | Application  |
 |  ----  | ----  |
-|  base/net_helper.py      |    Base model   |
+|  **base/net_helper.py**      |    **Base model**   |
 
 ## tools
 
