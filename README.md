@@ -11,7 +11,7 @@ For more information, https://arxiv.org/abs/2206.05687
 |  ----  | ----  |
 | train2.py          | train |
 | valid2.py          | valid |
-| make_dataloader.py | Make train/valid dataloader, and data enhancement |
+| make_dataloader.py | Make train/valid dataloader, and data enhancement. Random Patch Cropping |
 | load_data.py | Load data from path profile |
 | load_path.py | Load train/valid path profile |
 
