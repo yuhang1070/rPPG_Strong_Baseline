@@ -27,7 +27,7 @@ For more information, https://arxiv.org/abs/2206.05687
 |  ----  | ----  |
 | preprocess_data.py  | Train/Test Data Generation. |
 | preprocess_crop.py | Face cropping, and generate STMap from face videos. |
-| <font color='red'>gen_STmap.py</font> | **STMap Generation** |
+| <font color="red">gen_STmap.py</font> | **STMap Generation** |
 | preprocess_landmark.py | Face landmarking |
 | preprocess_detect.py   | Face detection |
 
