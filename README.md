@@ -24,6 +24,7 @@ For more information, https://arxiv.org/abs/2206.05687
 | tools/eval_tools.py  | For heart rate prediction, standard deviation of the error (Std), mean absolute error (MAE), root mean square error (RMSE), mean error rate (MER) and Pearson’s correlation coefficient (r) are employed for performance evaluation. |
 | tools/face_tools.py  | Face cropping and segmentation. |
 | tools/image_tools.py | Color space transformation. |
+| tools/net_tools.py | Network tools. |
 | tools/io_tools.py    | Read and write file function library. |
 | tools/log_tools.py   | Log. |
 | tools/meter_tools.py | AverageMeter. |
