@@ -7,11 +7,11 @@ For more information, https://arxiv.org/abs/2206.05687
 
 |  train   | Application  |
 |  ----  | ----  |
-| train/train2.py          | train |
-| train/valid2.py          | valid |
-| train/make_dataloader.py | Make train/valid dataloader, and data enhancement |
-| train/load_data.py | Load data from path profile |
-| train/load_path.py | Load train/valid path profile |
+| train2.py          | train |
+| valid2.py          | valid |
+| make_dataloader.py | Make train/valid dataloader, and data enhancement |
+| load_data.py | Load data from path profile |
+| load_path.py | Load train/valid path profile |
 
 |  Filename   | Application  |
 |  ----  | ----  |
